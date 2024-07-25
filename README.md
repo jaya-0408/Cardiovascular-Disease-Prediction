@@ -1,13 +1,13 @@
-### Objective:
+### Objective
 Prepare a comprehensive data analysis report on the provided dataset and develop a machine learning model to predict the likelihood of cardiovascular diseases in individuals. Evaluate and compare the performance of multiple models to recommend the most effective one.
 
-### Project Tasks:
+### Project Tasks
   - Conduct a thorough data analysis on the dataset.
   - Build a predictive model using machine learning algorithms.
   - Assess and report the performance metrics of each model.
   - Recommend the best model for predicting cardiovascular diseases.
 
-### Dataset Details:
+### Dataset Details
  age: Age of the person (in years)
  
  sex: Gender of the person (1 = male; 0 = female)
