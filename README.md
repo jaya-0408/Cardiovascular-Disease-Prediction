@@ -46,6 +46,7 @@ Prepare a comprehensive data analysis report on the provided dataset and develop
     0: Normal
     1: Fixed defect
     2: Reversible defect
+
 `Note: Thalassemia may lead to iron overload in the body, affecting heart, liver, and endocrine functions.`
 
  target: Presence of cardiovascular disease
